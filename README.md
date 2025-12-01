@@ -1,7 +1,7 @@
 🎊 MERCADO DO GLP - VERSÃO FINAL DE PRODUÇÃO
 ✅ 100% PRONTO PARA PUBLICAÇÃO NA GOOGLE PLAY STORE
 Desenvolvedor: Leonardo Alencar
-Email: leonardo.alencar@mercadoglp.com
+Email: alencar.consulecont@gmail.com
 Localização: Bacabal, Maranhão, Brasil
 Data de Conclusão: 30 de Novembro de 2024
 Versão: 1.0.0 (Build 1)
@@ -111,7 +111,7 @@ KEYSTORE - MERCADO DO GLP
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Desenvolvedor: Leonardo Alencar
-Email: leonardo.alencar@mercadoglp.com
+Email: alencar.consulecont@gmail.com
 Localização: Bacabal, Maranhão, BR
 
 Keystore File: mercadoglp-release.keystore
@@ -223,7 +223,7 @@ Categoria: Negócios > Produtividade
 Classificação: Livre (L)
 Desenvolvedor
 Nome: Leonardo Alencar
-Email: leonardo.alencar@mercadoglp.com
+Email: alencar.consulecont@gmail.com
 Suporte: suporte@mercadoglp.com
 Comercial: comercial@mercadoglp.com
 
@@ -335,9 +335,9 @@ Pós-Publicação
  Planejar atualizações
 📞 SUPORTE E CONTATO
 Leonardo Alencar
-Email Principal: leonardo.alencar@mercadoglp.com
-Email Suporte: suporte@mercadoglp.com
-Email Comercial: comercial@mercadoglp.com
+Email Principal: alencar.consulecont@gmail.com
+Email Suporte: alencar.consulecont@gmail.com
+Email Comercial: alencar.consulecont@gmail.com
 
 Localização: Bacabal, Maranhão, Brasil
 Website: www.mercadoglp.com
